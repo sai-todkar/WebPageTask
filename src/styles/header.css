@@ -1,0 +1,28 @@
+.header{
+    background: var(--black);
+    color: white;
+}
+
+.h-container{
+    justify-content: space-around;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.h-container img{
+    width: 90px;
+}
+
+.h-menu{
+    gap: 2rem;
+    text-decoration: none;
+}
+.h-menu a{
+    color: white;
+    text-decoration: none;
+}
+
+.h-btn a{
+    color: #000000;
+}

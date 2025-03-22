@@ -1,0 +1,19 @@
+.pro-container{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.pro-card{
+    gap: 0.6rem;
+    padding: 1.2rem;
+    border-radius: 10px;
+    width: 15rem;
+    max-width: max-content;
+    margin: auto;
+    transition: all 300ms ease-in;
+}
+
+.pro-price{
+    font-size: 1.5rem;
+    font-weight: 500;
+}
